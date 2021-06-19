@@ -1,0 +1,20 @@
+D:\شغل\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\bin\Debug\MeroZy V1.4.exe.config
+D:\شغل\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\bin\Debug\MeroZy V1.4.exe
+D:\شغل\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\bin\Debug\MeroZy V1.4.pdb
+D:\شغل\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\bin\Debug\MeroZy V1.4.xml
+D:\شغل\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\obj\Debug\MeroZy_V1._5.Form1.resources
+D:\شغل\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\obj\Debug\MeroZy_V1._5.Resources.resources
+D:\شغل\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\obj\Debug\MeroZy V1.5.vbproj.GenerateResource.Cache
+D:\شغل\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\obj\Debug\MeroZy V1.4.exe
+D:\شغل\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\obj\Debug\MeroZy V1.4.xml
+D:\شغل\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\obj\Debug\MeroZy V1.4.pdb
+D:\Work\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\obj\Debug\MeroZy_V1._5.Form1.resources
+D:\Work\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\obj\Debug\MeroZy_V1._5.Resources.resources
+D:\Work\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\obj\Debug\MeroZy V1.5.vbproj.GenerateResource.Cache
+D:\Work\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\bin\Debug\MeroZy V1.9.exe.config
+D:\Work\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\bin\Debug\MeroZy V1.9.exe
+D:\Work\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\bin\Debug\MeroZy V1.9.pdb
+D:\Work\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\bin\Debug\MeroZy V1.9.xml
+D:\Work\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\obj\Debug\MeroZy V1.9.exe
+D:\Work\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\obj\Debug\MeroZy V1.9.xml
+D:\Work\فيجوال\visual studio 2013\Projects\MeroZy V1.5\MeroZy V1.5\obj\Debug\MeroZy V1.9.pdb
